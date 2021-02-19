@@ -1,0 +1,26 @@
+{
+  "name": "happy-nlw3",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na Next Level Week #02 pela Rocketseat",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.7",
+    "sqlite-async": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabr1ellima/happy-nlw3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabr1ellima/happy-nlw3/issues"
+  },
+  "homepage": "https://github.com/gabr1ellima/happy-nlw3#readme"
+}
